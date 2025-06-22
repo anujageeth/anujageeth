@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: **priyanjanabag@gmail.com**
 
-- 📄 Know about me: [resume](https://drive.google.com/drive/folders/1k3ZCphMIDIEe_rprBvBaNcDjRAXO6CSU)
+- 📄 Know about me: https://anujageeth.live
 
 <br />
 <p align="center"><b>Connect with me: </b><br />
