@@ -67,27 +67,27 @@ Right now that curiosity lives across four rooms of the same house: **network in
 ### 🚗 Secure Software-Defined Vehicular Networks
 *NS-3 · Hyperledger Fabric (Go) · IPFS · Deep RL · LLM*
 
-A research build tackling data-collection attacks in vehicular networks — simulated the network in NS-3, anchored trust on a Fabric blockchain, and let a DRL agent detect and mitigate attacks in real time. Security research, but the network still has to actually route packets.
+A research build tackling data-collection attacks in vehicular networks; simulated the network in NS-3, anchored trust on a Fabric blockchain, and let a DRL agent detect and mitigate attacks in real time. Security research, but the network still has to actually route packets.
 
 ### 🖧 Campus Network Design & Automation
 *GNS3 · Cisco Dynamips · OSPF · Inter-VLAN Routing · ACLs · Python/Netmiko · Ansible · Zabbix*
 
-Designed a hierarchical campus network from scratch, then refused to configure it by hand — scripted the rollout with Netmiko/Ansible and wired up Zabbix for interface-level monitoring, because a network you can't see is a network you're guessing about.
+Designed a hierarchical campus network from scratch, then refused to configure it by hand; scripted the rollout with Netmiko/Ansible and wired up Zabbix for interface-level monitoring, because a network you can't see is a network you're guessing about.
 
-### 🛒 Promoken — E-Commerce SaaS
+### 🛒 Promoken - E-Commerce SaaS
 *React · Node/Express · MongoDB · Google OAuth · Vercel · DigitalOcean*
 
-Full-stack platform with admin tooling, inventory, analytics, referrals, and coupons — the unglamorous 80% of e-commerce that has to be airtight for the glamorous 20% to matter.
+Full-stack platform with admin tooling, inventory, analytics, referrals, and coupons; the unglamorous 80% of e-commerce that has to be airtight for the glamorous 20% to matter.
 
 ### 🧬 FiberSense
 *React · Node/Express · MongoDB · Gemini API · Recharts · GSAP*
 
-A learning + analysis tool for textile fiber properties — comparison, filtering, visualization, and an AI layer for interpretation. Proof that "full-stack" doesn't have to mean "another to-do app."
+A learning + analysis tool for textile fiber properties;comparison, filtering, visualization, and an AI layer for interpretation. Proof that "full-stack" doesn't have to mean "another to-do app."
 
 ### ⚙️ MERN + DevOps Pipeline
 *Docker · Jenkins · Terraform · Ansible · AWS EC2*
 
-Took a MERN app from "runs on my machine" to provisioned infrastructure and automated CI/CD — because deployment day shouldn't be an event.
+Took a MERN app from "runs on my machine" to provisioned infrastructure and automated CI/CD; because deployment day shouldn't be an event.
 
 <br>
 
@@ -96,7 +96,7 @@ Took a MERN app from "runs on my machine" to provisioned infrastructure and auto
 **Full-Stack Software Engineer Intern**
 *National Water Supply & Drainage Board, Sri Lanka*
 
-Built ERP modules (Helpdesk, Inventory, Audit) end-to-end — schemas, queries, dashboards, migration scripts — and wrote the incident report after an SMS system security breach, which taught me more about security than any course did.
+Built ERP modules (Helpdesk, Inventory, Audit) end-to-end; schemas, queries, dashboards, migration scripts, and wrote the incident report after an SMS system security breach, which taught me more about security than any course did.
 
 <br>
 
