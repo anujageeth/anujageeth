@@ -1,215 +1,131 @@
-<!--
-  GitHub Profile README
-  Username: anujageeth
--->
-
 <div align="center">
 
-# Hi, I'm Anuja Geeth 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Networks+that+don't+break.;Systems+that+don't+leak.;Code+that+doesn't+rot." alt="Typing SVG" />
 
-### Computer Engineering Graduate · Networking · Cybersecurity · Cloud · Software
+# Anuja Geeth
 
-<p>
-  <a href="https://anujageeth.online">
-    <img src="https://img.shields.io/badge/Portfolio-anujageeth.online-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anujageeth">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:priyanjanabag@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**Computer Engineer** · University of Ruhuna, Sri Lanka
+*Networking · Security · Cloud · Distributed Systems*
+
+[![Portfolio](https://img.shields.io/badge/anujageeth.online-000000?style=flat-square&logo=safari&logoColor=white)](https://anujageeth.online)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anujageeth)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:priyanjanabag@gmail.com)
 
 </div>
 
----
+<br>
 
-## 👨‍💻 About Me
+## → the short version
 
-I'm a **Computer Engineering graduate from the University of Ruhuna, Sri Lanka**, with hands-on experience across **networking, cybersecurity, distributed systems, cloud technologies, blockchain, and full-stack software development**.
+I like taking things apart to see how they break; then making sure they don't, again. That's meant packets on a wire, blockchains under load, and APIs under attack, roughly in that order of how much I've broken sleep over them.
 
-I'm particularly interested in building reliable and secure systems at the intersection of:
+Right now that curiosity lives across four rooms of the same house: **network infrastructure**, **security**, **cloud / distributed systems**, and **blockchain** - with software engineering as the hallway connecting all of them.
 
-* 🌐 Networking & Software-Defined Networks
-* 🔐 Cybersecurity & Secure Systems
-* ☁️ Cloud Infrastructure & DevOps
-* ⛓️ Blockchain & Distributed Systems
-* 🤖 AI-driven Network & Security Applications
-* 💻 Software Engineering & Automation
+<br>
 
-I enjoy working across the stack — from **network protocols and infrastructure** to **APIs, cloud deployments, security mechanisms, and user-facing applications**.
+## → what's actually running in production (in my head)
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🧠 What I Work With
+**🌐 Networking**
+`NS-3` `SDN` `Cisco/GNS3` `OSPF`
+`Ansible` `Netmiko` `SNMP` `Zabbix`
 
-### 🌐 Networking & Infrastructure
+**🔐 Security**
+`JWT` `OAuth 2.0` `Cryptography`
+`Secure API Design` `AuthN/AuthZ`
 
-`NS-3` · `SDN` · `Networking Protocols` · `Cisco` · `GNS3` · `Ansible` · `Netmiko` · `SNMP` · `Zabbix`
+**⛓️ Distributed Systems**
+`Hyperledger Fabric` `Smart Contracts`
+`IPFS` `CouchDB` `gRPC`
 
-### 🔐 Cybersecurity
+</td>
+<td width="50%" valign="top">
 
-`JWT` · `OAuth 2.0` · `Cryptography` · `Secure APIs` · `Network Security` · `Authentication & Authorization`
+**☁️ Cloud & DevOps**
+`Docker` `Kubernetes` `Terraform`
+`Jenkins` `CI/CD` `AWS EC2`
 
-### ☁️ DevOps & Cloud
+**💻 Languages**
+`C` `C++` `Go` `Python`
+`TypeScript` `Java`
 
-`Linux` · `Docker` · `Kubernetes` · `Jenkins` · `Terraform` · `CI/CD` · `AWS EC2`
+**🌍 Web**
+`Next.js` `React` `Node/Express`
+`REST APIs` `Tailwind CSS`
 
-### ⛓️ Blockchain & Distributed Systems
+</td>
+</tr>
+</table>
 
-`Hyperledger Fabric` · `Smart Contracts` · `IPFS` · `CouchDB` · `gRPC`
+<br>
 
-### 💻 Software Development
+## → things I've built that didn't stay on paper
 
-`C` · `C++` · `JavaScript` · `TypeScript` · `Java` · `Python` · `Go`
+### 🚗 Secure Software-Defined Vehicular Networks
+*NS-3 · Hyperledger Fabric (Go) · IPFS · Deep RL · LLM*
 
-### 🌍 Web Development
+A research build tackling data-collection attacks in vehicular networks — simulated the network in NS-3, anchored trust on a Fabric blockchain, and let a DRL agent detect and mitigate attacks in real time. Security research, but the network still has to actually route packets.
 
-`Next.js` · `React.js` · `Vite` · `Node.js` · `Express.js` · `REST APIs` · `HTML5` · `Tailwind CSS`
+### 🖧 Campus Network Design & Automation
+*GNS3 · Cisco Dynamips · OSPF · Inter-VLAN Routing · ACLs · Python/Netmiko · Ansible · Zabbix*
 
-### 🗄️ Databases & Tools
+Designed a hierarchical campus network from scratch, then refused to configure it by hand — scripted the rollout with Netmiko/Ansible and wired up Zabbix for interface-level monitoring, because a network you can't see is a network you're guessing about.
 
-`MySQL` · `MongoDB` · `Git` · `GitHub` · `Postman` · `JIRA` · `Figma`
+### 🛒 Promoken — E-Commerce SaaS
+*React · Node/Express · MongoDB · Google OAuth · Vercel · DigitalOcean*
 
----
-
-## 🚀 Featured Projects
-
-### 🔐 Secure Software-Defined Vehicular Networks
-
-**Blockchain + LLM + Deep Reinforcement Learning + Network Security**
-
-A research project focused on detecting and mitigating data collection attacks in Software-Defined Vehicular Networks.
-
-**Tech:**
-`NS-3 (C++)` · `Hyperledger Fabric (Go)` · `IPFS` · `DRL` · `LLM`
-
-Built a secure SDVN architecture combining network simulation, blockchain-based trust and validation, AI-driven attack detection, and automated mitigation mechanisms.
-
----
-
-### 🌐 Campus Network Design & Automation
-
-**Networking + Automation + Monitoring**
-
-Designed and implemented a hierarchical campus network using Cisco technologies.
-
-**Tech:**
-`GNS3` · `Cisco Dynamips` · `OSPF` · `Inter-VLAN Routing` · `ACL` · `Python` · `Netmiko` · `Ansible` · `Zabbix` · `SNMP`
-
-Implemented network automation and real-time infrastructure monitoring with interface-level visibility.
-
----
-
-### 🛒 Promoken — E-Commerce Platform
-
-**Full-Stack Development + Security + Cloud**
-
-A full-stack SaaS platform with secure authentication, administration, inventory, analytics, referrals, coupons, and email services.
-
-**Tech:**
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Google OAuth` · `Vercel` · `DigitalOcean`
-
-Focused on secure authentication, authorization, backend services, and cloud deployment.
-
----
+Full-stack platform with admin tooling, inventory, analytics, referrals, and coupons — the unglamorous 80% of e-commerce that has to be airtight for the glamorous 20% to matter.
 
 ### 🧬 FiberSense
+*React · Node/Express · MongoDB · Gemini API · Recharts · GSAP*
 
-**Full-Stack + AI + Data Visualization**
+A learning + analysis tool for textile fiber properties — comparison, filtering, visualization, and an AI layer for interpretation. Proof that "full-stack" doesn't have to mean "another to-do app."
 
-A learning and analysis platform for textile fiber properties, combining interactive learning with comparison, filtering, visualization, and AI-assisted analysis.
+### ⚙️ MERN + DevOps Pipeline
+*Docker · Jenkins · Terraform · Ansible · AWS EC2*
 
-**Tech:**
-`React.js` · `Node.js` · `Express.js` · `MongoDB` · `Gemini API` · `Recharts` · `GSAP`
+Took a MERN app from "runs on my machine" to provisioned infrastructure and automated CI/CD — because deployment day shouldn't be an event.
 
----
+<br>
 
-### ⚙️ Social Media WebApp - DevOps & Cloud
+## → experience
 
-**Docker + CI/CD + Infrastructure Automation**
+**Full-Stack Software Engineer Intern**
+*National Water Supply & Drainage Board, Sri Lanka*
 
-Built and deployed a MERN application while implementing modern DevOps practices.
+Built ERP modules (Helpdesk, Inventory, Audit) end-to-end — schemas, queries, dashboards, migration scripts — and wrote the incident report after an SMS system security breach, which taught me more about security than any course did.
 
-**Tech:**
-`MERN` · `Docker` · `Jenkins` · `Terraform` · `Ansible` · `AWS EC2`
+<br>
 
-Automated infrastructure provisioning and application deployment through CI/CD workflows.
-
----
-
-## 💼 Experience
-
-### Full-Stack Software Engineer Intern
-
-**National Water Supply & Drainage Board - Sri Lanka**
-
-Worked on enterprise ERP systems and internal software solutions, contributing to modules including **Helpdesk, Inventory, and Audit**.
-
-* Engineered full-stack ERP modules
-* Designed relational database schemas and optimized queries
-* Built responsive administrative dashboards
-* Prepared database migration scripts and supported deployment workflows
-* Worked on testing, documentation, and system maintenance
-* Prepared an incident report related to an SMS system security breach
-
----
-
-## 🛠️ Tech Stack
+## → stack, visually
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,java,python,go" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,jenkins,terraform,aws,ansible" />
-  <br />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,python,java,ts,js" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,html,css" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,jenkins,aws,ansible" />
+  <br>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,postman,figma" />
 </p>
 
-<p align="center">
-  <b>Also working with:</b><br/>
-  Hyperledger Fabric · IPFS · NS-3 · GNS3 · Cisco · Netmiko · Zabbix · SNMP · JIRA
-</p>
+<p align="center"><sub>also fluent in: Hyperledger Fabric · IPFS · NS-3 · GNS3 · Cisco · Zabbix · SNMP</sub></p>
 
----
+<br>
 
-## 🌱 Currently Exploring
+## → off the clock
 
-```text
-Networking        →  Network Engineering · SDN · Network Automation
-Cybersecurity     →  Network Security · Secure Systems · Security Automation
-Cloud              →  Infrastructure · Containers · Cloud Networking
-Distributed Tech  →  Blockchain · Hyperledger Fabric · Distributed Systems
-Software           →  Full-Stack Development · APIs · System Design
-```
+📷 photography · 🎥 video editing · 🎨 graphic design · 🏎️ Formula 1 · ✈️ travel · 🚗 cars
 
----
+<br>
 
-## 🎨 Beyond Engineering
+<div align="center">
 
-When I'm not building systems, you'll probably find me working on:
+*Building at the intersection of networks, security, and software — and trying to keep the diagram honest.*
 
-📷 Photography
-🎥 Videography & Video Editing
-🎨 Graphic Design
-🚗 Cars & Automotive Content
-🏎️ Formula 1
-✈️ Travel
+[![Portfolio](https://img.shields.io/badge/→_see_more_at_anujageeth.online-38BDF8?style=for-the-badge)](https://anujageeth.online)
 
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://anujageeth.online">🌐 Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/anujageeth">💼 LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="mailto:priyanjanabag@gmail.com">📧 Email</a>
-</p>
-
-<p align="center">
-  <i>Building at the intersection of networks, security and software.</i>
-</p>
+</div>
